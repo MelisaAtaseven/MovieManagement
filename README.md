@@ -1,6 +1,6 @@
 # Yerel Film Kütüphanesi
 
-🎥 Kullanıcıların film bilgilerini ekleyebileceği, düzenleyebileceği ve silebileceği bir web uygulaması.
+🎥 Kullanıcıların film bilgilerini ekleyebileceği, düzenleyebileceği ve silebileceği bir uygulama.
 
 🚀 Bu projede, HTML, CSS ve JavaScript kullanarak bir film kütüphanesi oluşturdum. 
 Kullanıcılar, filmin adını, yönetmenini ve görsel URL'sini girerek listeye yeni film eklenebiliyor. 
